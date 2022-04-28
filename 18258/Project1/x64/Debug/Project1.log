@@ -1,0 +1,20 @@
+﻿  소스.cpp
+D:\boj\18258\Project1\소스.cpp(38,6): error C2365: 'Queue::size': 재정의: 이전 정의는 '데이터 멤버'입니다.
+D:\boj\18258\Project1\소스.cpp(8): message : 'Queue::size' 선언을 참조하십시오.
+D:\boj\18258\Project1\소스.cpp(38,15): error C2059: 구문 오류: 'return'
+D:\boj\18258\Project1\소스.cpp(38,26): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+D:\boj\18258\Project1\소스.cpp(39,2): error C2628: 'Queue' 다음에 'int'이(가) 올 수 없습니다. ';'이 있어야 합니다.
+D:\boj\18258\Project1\소스.cpp(40,7): error C2065: 'rear': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(40,15): error C2065: 'fron': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(47,23): error C2065: 'Q': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(47,25): error C2065: 'fron': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(48,22): error C2065: 'Q': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(48,24): error C2065: 'rear': 선언되지 않은 식별자입니다.
+D:\boj\18258\Project1\소스.cpp(49,1): error C2059: 구문 오류: '}'
+D:\boj\18258\Project1\소스.cpp(49,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\boj\18258\Project1\소스.cpp(69,14): error C2039: 'empty': 'Queue'의 멤버가 아닙니다.
+D:\boj\18258\Project1\소스.cpp(3): message : 'Queue' 선언을 참조하십시오.
+D:\boj\18258\Project1\소스.cpp(72,14): error C2039: 'front': 'Queue'의 멤버가 아닙니다.
+D:\boj\18258\Project1\소스.cpp(3): message : 'Queue' 선언을 참조하십시오.
+D:\boj\18258\Project1\소스.cpp(75,14): error C2039: 'back': 'Queue'의 멤버가 아닙니다.
+D:\boj\18258\Project1\소스.cpp(3): message : 'Queue' 선언을 참조하십시오.
